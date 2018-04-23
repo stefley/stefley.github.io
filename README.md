@@ -1,1 +1,5 @@
-<cite>jacascript了不得</cite>
+# Blog
+---
+### Welcom to my blog!!
+
+![](./images/photo.jpg)
