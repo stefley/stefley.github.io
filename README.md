@@ -16,3 +16,7 @@
 8. Parish
 这是一个普通段落：
   return null;
+  ---
+  ---
+  ---
+  [百度](http://www.baidu.com/ 'baidu')
